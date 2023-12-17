@@ -1,16 +1,22 @@
-## HOLA A TODOS, HI THERE!!! 👋 🇪🇸
-##### SOY JUAN CARLOS OCAÑA HEREDIA Y ESTE ES MI PERFIL 🤙👨‍💻
-<!--
-**jocaher0503/jocaher0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Pilar González 👩
+A Computer Science Teacher from Málaga - Spain
+💻 I’m currently studying at CPIFP Nuevo Desglose (Campanillas)
 
-Here are some ideas to get you started:
+📫 How to contact me by email jocaher0503@g.educaand.es
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Studying now (2023/2024):
+1- Lenguajes de Marcas (Markup Languages) - 1º DAM 
+2- Programación (Programming) - 1º DAM
+3- Sistemas Informáticos (Information systems) - 1º DAM
+4- Base de Datos (Database) - 1º DAM
+5- Entornos de Desarrollo (Development Environments) - 1º DAM
+6- FOL - 1º DAM
+Languages and Tools:
+>>> Web Design <<<
+html5 css3 javascript
+
+>>> Languages <<<
+java
+
+>>> Databases <<<
+mysql
